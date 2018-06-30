@@ -1,0 +1,11 @@
+-cp src
+-D analyzer-optimize
+-debug
+-lib haxicord
+-lib orm
+-lib hscript
+-main com.raidandfade.haxibot.Bot
+-neko bin/Haxibot-neko/bot.n
+#-lib hxnodejs
+#-js bin/Haxibot-js/bot.js
+ 
